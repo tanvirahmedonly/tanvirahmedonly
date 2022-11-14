@@ -24,9 +24,6 @@ Skills: HTML / CSS / BOOTSTRAP / JAVASCRIPT / JQUERY / PHP / MYSQL / WORDPRESS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tanvirahmedonly&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tanvirahmedonly)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=tanvirahmedonly)  
 
 ![Profile views](https://gpvc.arturio.dev/tanvirahmedonly)  
 
