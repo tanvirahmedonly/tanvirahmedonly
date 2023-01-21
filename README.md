@@ -11,7 +11,7 @@ I love Entrepreneurship and like to collaborate on innovative and impactful proj
 Thank you, <br>
 Tanvir.
 
-Skills: HTML, CSS, Sass, Bootstrap, Tailwind CSS, JavaScript / jQuery / React.js / PHP / MySQL / Laravel / WordPress
+Skills: HTML, CSS, Sass, Bootstrap, Tailwind CSS, JavaScript, jQuery, React.js, PHP, MySQL, Laravel, WordPress
 
 - 🔭 I’m currently working on Upwork
 - 🌱 I’m currently learning Laravel
