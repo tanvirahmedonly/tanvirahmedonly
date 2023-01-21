@@ -4,17 +4,17 @@
 
 I'm a web designer and developer. I have been doing web development for the last many years. 
 
-I work with various technologies and programming languages including HTML5, CSS3, CSS3 Animation, Bootstrap, JavaScript, JQuery, JQuery Animation, PHP, MYSQL, and WordPress. 
+I work with various technologies and programming languages including HTML5, CSS3, Sass, Bootstrap, Tailwind CSS, JavaScript, JQuery, React.js, PHP, MYSQL, Laravel, and WordPress. 
 
-I will be glad to meet you for your next project. 
+I love Entrepreneurship and like to collaborate on innovative and impactful projects!
 
-Thank you, 
+Thank you, <br>
 Tanvir.
 
-Skills: HTML / CSS / BOOTSTRAP / JAVASCRIPT / JQUERY / PHP / MYSQL / WORDPRESS
+Skills: HTML, CSS, Sass, Bootstrap, Tailwind CSS, JavaScript / jQuery / React.js / PHP / MySQL / Laravel / WordPress
 
-- 🔭 I’m currently working on Fiverr 
-- 🌱 I’m currently learning PHP 
+- 🔭 I’m currently working on Upwork
+- 🌱 I’m currently learning Laravel
 - 📫 How to reach me: tanvirahmedonly@gmail.com 
 
 
