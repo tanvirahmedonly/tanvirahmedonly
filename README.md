@@ -2,7 +2,7 @@
 #### Full Stack Web Developer
 ![Full Stack Web Developer](https://i.postimg.cc/bvVmdcRd/github-cover-tanvirahmedonly.jpg)
 
-I'm a web designer and developer. I have been doing web development for the last many years. 
+I'm a dedicated and results-driven full-stack web developer with a passion for crafting custom web applications that drive business success in the digital realm.
 
 I work with various technologies and programming languages including HTML5, CSS3, Sass, Bootstrap, Tailwind CSS, JavaScript, JQuery, React.js, PHP, MYSQL, Laravel, and WordPress. 
 
@@ -14,7 +14,7 @@ Tanvir.
 Skills: HTML, CSS, Sass, Bootstrap, Tailwind CSS, JavaScript, jQuery, React.js, PHP, MySQL, Laravel, WordPress
 
 - 🔭 I’m currently working on Upwork
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me: tanvirahmedonly@gmail.com 
 
 
