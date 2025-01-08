@@ -1,10 +1,9 @@
 ### Hi there, I'm Tanvir Ahmed 👋 
 #### Full Stack Web Developer
-![Full Stack Web Developer]
 
-I'm a dedicated and results-driven full-stack web developer with a passion for crafting custom web applications that drive business success in the digital realm.
+I specialise in crafting custom web applications, such as e-commerce and portfolio websites for small to mid-level businesses and personal branding of subject-matter experts that gets a physical shop running smoothly online and helps experts expand and nurture their audience-base or customers.
 
-I work with various technologies and programming languages including HTML5, CSS3, Sass, Bootstrap, Tailwind CSS, JavaScript, JQuery, React.js, PHP, MYSQL, Laravel, and WordPress. 
+I'm fluent in various technologies and programming languages including but not limited to HTML, CSS, Sass/SCSS, Bootstrap, Tailwind CSS, JavaScript, JQuery, React.js, PHP, MYSQL, Laravel, and WordPress Themes & Plugins Development. 
 
 I love Entrepreneurship and like to collaborate on innovative and impactful projects!
 
